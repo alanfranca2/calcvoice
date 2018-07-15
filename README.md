@@ -11,6 +11,6 @@
   </table>
   <hr>
   <h1>Autores</h1>
-  <a href="www.github.com/paulohenriquesn">Paulo Henrique</a><br>
+  <a href="https://www.github.com/paulohenriquesn">Paulo Henrique</a><br>
   <a href="https://github.com/alanfranca2">Alan França</a>
   </center>
